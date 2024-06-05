@@ -1,2 +1,2 @@
-categoria,producto,banner_producto,marca,descripcion_producto,descuento_2,precio,precio_sin_descuento,precio_por_kilo,url_producto,url_imagen
-almacen,aceites-blend,,SIGLO DE ORO,Aceite Mezcla Siglo De Oro 900 Ml.,,$1.250,,1388.89LT,https://diaonline.supermercadosdia.com.ar/aceite-mezcla-siglo-de-oro-900-ml-285396/p,https://ardiaprod.vtexassets.com/arquivos/ids/279462-500-auto?v=638322628704630000&width=500&height=auto&aspect=true
+categoria,producto,banner_producto,marca,descripcion_producto,promocion,precio,precio_sin_descuento,precio_por_kilo,url_producto,url_imagen
+almacen,aceites-blend,,SIGLO DE ORO,Aceite Mezcla Siglo De Oro 900 Ml.,,"$1.250,00",,1388.89LT,https://diaonline.supermercadosdia.com.ar/aceite-mezcla-siglo-de-oro-900-ml-285396/p,https://ardiaprod.vtexassets.com/arquivos/ids/279462-500-auto?v=638322628704630000&width=500&height=auto&aspect=true
