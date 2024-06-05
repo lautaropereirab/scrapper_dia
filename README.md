@@ -1,41 +1,37 @@
+
 # Proyecto #1: Web-scraping para Variación de Precios
 
 ## Descripción
 
-La idea de este proyecto es relevar los productos del supermercado DIA para generar una base de datos. Esta base de datos puede ser utilizada para realizar análisis exploratorios de datos (EDA) y para generar estimadores de la variación de precios (IPC).
+El Proyecto #1 es una herramienta de web-scraping diseñada para recolectar datos de productos del supermercado DIA. Esta aplicación automatizada crea una base de datos de productos que puede utilizarse para análisis de precios y estudios de variación de precios a lo largo del tiempo.
 
 ## Características Principales
 
-- Releva todos los productos disponibles en la página web del supermercado DIA.
-- La frecuencia de actualización depende del momento en el que se corra el script.
-- Futuras actualizaciones del proyecto incluirán la capacidad de correr el script con una periodicidad definida y optimizar los tiempos de ejecución.
+- **Relevamiento exhaustivo:** Captura todos los productos disponibles en el catálogo en línea del supermercado DIA.
+- **Frecuencia adaptable:** Al ser la primer version, por ahora se corre unicamente de forma manual. En futuros updates se podra correr de forma diaria.
+El código esta adaptado para la pagina del Dia. En un futuro se podria replicar a otros sitios web.
 
 ## Instalación
 
-Todo lo necesario para ejecutar el proyecto está incluido en el repositorio. Simplemente clona el repositorio y estarás listo para comenzar.
+La instalación es sencilla y solo requiere clonar este repositorio:
 
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
 ```
 
-## Uso
+Todos los requisitos de software están incluidos en el repositorio.
 
-La principal funcionalidad del proyecto es generar una base de datos que puede ser utilizada para:
 
-1. Realizar un análisis exploratorio de datos (EDA).
-2. Generar un estimador de la variación de precios (IPC) a partir de la base de datos.
+### Análisis de Datos
+Utiliza los datos recolectados para análisis de precios y estudios de variación de precios. Ejemplos de uso incluyen:
+- Análisis exploratorio de datos (EDA).
+- Estimación del índice de precios al consumidor (IPC).
 
-Para usar el proyecto, simplemente ejecuta el script principal:
+## Autor
 
-```bash
-python main.py
-```
-
-## Autores
-
-Este proyecto fue desarrollado por [Lautaro Pereira Basile]
+Este proyecto fue creado y mantenido por [Lautaro Pereira Basile](https://github.com/lautaropereirab). Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ## Contacto
 
-Puedes contactarme a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/lautaropereirab/).
+Puedes contactarme a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/lautaropereirab/) o por [lautaropereirabasile@gmail.com](mailto:lautaropereirabasile@gmail.com)
