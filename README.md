@@ -22,6 +22,14 @@ cd tu-repositorio
 
 Todos los requisitos de software están incluidos en el repositorio.
 
+### Librerías Utilizadas
+
+Este proyecto utiliza las siguientes librerías:
+- **requests**: Para hacer solicitudes HTTP a la página web del supermercado.
+- **BeautifulSoup**: Para parsear y extraer información de las páginas HTML.
+- **pandas**: Para manipular y almacenar los datos recolectados.
+- **numpy**: Para operaciones numéricas y de matriz.
+
 
 ### Análisis de Datos
 Utiliza los datos recolectados para análisis de precios y estudios de variación de precios. Ejemplos de uso incluyen:
