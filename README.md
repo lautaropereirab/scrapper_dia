@@ -25,7 +25,7 @@ git clone https://github.com/lautaropereirab/scrapper_dia.git
 
 Todos los requisitos de software están incluidos en el mismo.
 
-### Librerías Utilizadas
+## Librerías Utilizadas
 
 Este proyecto utiliza las siguientes librerías:
 - **selenium**: Simula el comportamiento de un usuario a traves de un navegadr
