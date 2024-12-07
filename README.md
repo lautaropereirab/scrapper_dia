@@ -28,11 +28,11 @@ Todos los requisitos de software están incluidos en el mismo.
 ## Librerías Utilizadas
 
 Este proyecto utiliza las siguientes librerías:
-- **selenium**: Simula el comportamiento de un usuario a traves de un navegadr
-- **requests**: Reralizar solicitudes HTTP a la página web del supermercado.
-- **BeautifulSoup**: Parsear y extraer información de las páginas HTML.
-- **pandas**: Manipulacion y almacenamiento de los datos recolectados.
-- **numpy**: Para operaciones numéricas y de matriz.
+* **selenium**: Simula el comportamiento de un usuario a traves de un navegadr
+* **requests**: Reralizar solicitudes HTTP a la página web del supermercado.
+* **BeautifulSoup**: Parsear y extraer información de las páginas HTML.
+* **pandas**: Manipulacion y almacenamiento de los datos recolectados.
+* **numpy**: Para operaciones numéricas y de matriz.
 
 ## Otro casos de uso
 
