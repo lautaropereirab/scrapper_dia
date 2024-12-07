@@ -9,30 +9,11 @@ El Proyecto #1 es una herramienta de web-scraping diseñada para recolectar dato
 
 Esta aplicación automatizada crea una base de datos de productos que puede utilizarse en diversos contextos, como:
 
-1. **Estudios de variación de precios a lo largo del tiempo**:
-Permite analizar cómo los precios de los productos fluctúan en diferentes períodos, ayudando a identificar tendencias de mercado y posibles estrategias de precios del supermercado.
-2. **Visualización de datos**:
-Facilita la creación de gráficos y dashboards interactivos para explorar los precios, descuentos, categorías más vendidas y otros datos clave.
-3. **Comparativas de precios entre supermercados**:
-Al expandir el alcance a otros supermercados, la herramienta puede utilizarse para comparar precios de productos similares entre distintas cadenas, ayudando a consumidores o empresas a encontrar las mejores opciones.
-4. **Optimización de inventarios y estrategias de surtido**:
-Proporciona información valiosa sobre qué productos tienen mayores variaciones de precio o descuentos frecuentes, lo cual puede ser útil para equipos de marketing, compras o logística.
-5. **Análisis de impacto de campañas de descuento**:
-Evalúa cómo los descuentos o promociones afectan los precios y la demanda de ciertos productos, proporcionando datos clave para ajustar futuras campañas.
-6. **Monitoreo de inflación y tendencias económicas**:
-Con el seguimiento regular de precios, se pueden analizar tendencias relacionadas con la inflación en bienes de consumo y correlacionarlas con otros indicadores económicos.
-7. **Generación de alertas de precios**:
-La herramienta puede configurarse para identificar y notificar sobre cambios abruptos en los precios, descuentos excepcionales o productos con precios inusualmente altos.
-8. **Investigación de comportamiento del consumidor**:
-Analizando los patrones de ofertas y precios, se puede inferir qué productos tienen mayor rotación o cuáles están diseñados para atraer a los compradores en diferentes temporadas.
-9. **Creación de modelos predictivos**:
-Al usar los datos históricos de precios, se pueden desarrollar algoritmos de predicción para anticipar cuándo ciertos productos podrían tener descuentos o aumentos de precio.
-10. **Benchmarking para proveedores**:
-Los datos recolectados pueden ser útiles para proveedores interesados en entender cómo se están posicionando sus productos dentro de la cadena y cómo se comparan con los de la competencia.
-11. **Soporte a aplicaciones de compra inteligente**:
-Integra los datos en plataformas que ayuden a los consumidores a tomar decisiones informadas sobre dónde comprar ciertos productos al mejor precio.
-12. **Identificación de categorías de productos en tendencia**:
-La herramienta puede analizar qué categorías están siendo más promocionadas o tienen más fluctuaciones de precio, ayudando a empresas a capitalizar esas oportunidades.
+1. **Estudios de variación de precios a lo largo del tiempo**: Permite analizar cómo los precios de los productos fluctúan en diferentes períodos, ayudando a identificar tendencias de mercado y posibles estrategias de precios del supermercado.
+2. **Visualización de datos**: Facilita la creación de gráficos y dashboards interactivos para explorar los precios, descuentos, categorías más vendidas y otros datos clave.
+3. **Comparativas de precios entre supermercados**: Al expandir el alcance a otros supermercados, la herramienta puede utilizarse para comparar precios de productos similares entre distintas cadenas, ayudando a consumidores o empresas a encontrar las mejores opciones.
+4. **Optimización de inventarios y estrategias de surtido**: Proporciona información valiosa sobre qué productos tienen mayores variaciones de precio o descuentos frecuentes, lo cual puede ser útil para equipos de marketing, compras o logística.
+5. **Análisis de impacto de campañas de descuento**: Evalúa cómo los descuentos o promociones afectan los precios y la demanda de ciertos productos, proporcionando datos clave para ajustar futuras campañas.
 
 ## Instalación
 
