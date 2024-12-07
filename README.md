@@ -53,6 +53,29 @@ Este proyecto utiliza las siguientes librerías:
 - **pandas**: Manipulacion y almacenamiento de los datos recolectados.
 - **numpy**: Para operaciones numéricas y de matriz.
 
+## Otro casos de uso
+
+**Monitoreo de inflación y tendencias económicas**:
+- Con el seguimiento regular de precios, se pueden analizar tendencias relacionadas con la inflación en bienes de consumo y correlacionarlas con otros indicadores económicos.
+  
+**Generación de alertas de precios**:
+- La herramienta puede configurarse para identificar y notificar sobre cambios abruptos en los precios, descuentos excepcionales o productos con precios inusualmente altos.
+  
+**Investigación de comportamiento del consumidor**:
+- Analizando los patrones de ofertas y precios, se puede inferir qué productos tienen mayor rotación o cuáles están diseñados para atraer a los compradores en diferentes temporadas.
+  
+**Creación de modelos predictivos**:
+- Al usar los datos históricos de precios, se pueden desarrollar algoritmos de predicción para anticipar cuándo ciertos productos podrían tener descuentos o aumentos de precio.
+
+**Benchmarking para proveedores**:
+- Los datos recolectados pueden ser útiles para proveedores interesados en entender cómo se están posicionando sus productos dentro de la cadena y cómo se comparan con los de la competencia.
+
+**Soporte a aplicaciones de compra inteligente**:
+- Integra los datos en plataformas que ayuden a los consumidores a tomar decisiones informadas sobre dónde comprar ciertos productos al mejor precio.
+
+**Identificación de categorías de productos en tendencia**:
+- La herramienta puede analizar qué categorías están siendo más promocionadas o tienen más fluctuaciones de precio, ayudando a empresas a capitalizar esas oportunidades.
+
 ## Autor
 
 Este proyecto fue creado y es mantenido por [Lautaro Pereira Basile](https://github.com/lautaropereirab)
